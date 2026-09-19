@@ -6,6 +6,11 @@
 
 <p align="left">
 $\color{#242236}{Anything~That~You~Want}$ <img  alt="dog27" src="https://github.com/user-attachments/assets/3833f597-2096-432a-8c6e-fbafb605ea18" />
+</p>
+<p align="center">
+ $\color{#612d2a}{︶⊹︶︶୨୧︶︶⊹︶ }$
+</p>
+<p align="right">
   
 <p align="center">
   <a href="https://github.com/kittinan/spotify-github-profile">
