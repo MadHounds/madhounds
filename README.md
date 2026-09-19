@@ -20,10 +20,7 @@ $\color{#242236}{Anything~That~You~Want}$ <img  alt="dog27" src="https://github.
 </p>
 
 
-<p
-  align="center"
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=612D2A&width=435&lines=Im+not+letting+you+leave+here." alt="Typing SVG" /></a>
-</p>
+
 </p>
 <p align="center">
  $\color{#242236}{︶⊹︶︶୨୧︶︶⊹︶ }$
