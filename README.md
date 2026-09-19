@@ -21,7 +21,7 @@ $\color{#242236}{Anything~That~You~Want}$ <img  alt="dog27" src="https://github.
 
 <p align="center">
  $\color{#242236}{☆}$ <a href="https://madhound.atabook.org/">Ata</a>  $\color{#612d2a}{☆}$
-     <a href="https://pronouns.cc/@_Mosiquito">Prnscc</a>  $\color{#242236}{☆}$
+      another link soon   $\color{#242236}{☆}$
 </p>
 
 
