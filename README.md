@@ -8,7 +8,7 @@
 </p>
 <br>
 <p align="center">
-$\color{#ff7398}{☆}$ ata-book $\color{#ff7398}{✮}$ strawpage $\color{#ff7398}{☆}$ rentry  $\color{#ff7398}{✮}$
+$\color{#ff7398}{☆}$ <a href="https://weaponofwar.atabook.org/">ata-book</a> $\color{#ff7398}{✮}$ <a href="https://weaponofwar.straw.page/">Strawpage</a>  strawpage $\color{#ff7398}{☆}$ <a href="https://rentry.co/itsmewemmbu_">Rentry</a>  $\color{#ff7398}{✮}$
   <br>
     <img  width="100" align="center" alt="IMG_6683 (1)" src="https://github.com/user-attachments/assets/e3762fb3-053e-4675-be6b-b9918b5fc7a3" />
   </p>
