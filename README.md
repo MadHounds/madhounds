@@ -1,5 +1,18 @@
 <img width="450" align="left" alt="IMG_6682 (1)" src="https://github.com/user-attachments/assets/6dea7517-dcbf-4a8a-b758-0dcb99d46d6d" />
-
+<br>
+<br>
+<br>
+<p align="center">
+  <a href="https://github.com/kittinan/spotify-github-profile">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=og069hsmlaofwky4s8p345kl6&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=false&profanity=false&hide_remaster=false&bar_color=9d66dd&bar_color_cover=false">
+  </a>
+</p>
+<br>
+<p align="center">
+atabook strawpage rentry
+  <br>
+    <img  width="100" align="center" alt="IMG_6683 (1)" src="https://github.com/user-attachments/assets/e3762fb3-053e-4675-be6b-b9918b5fc7a3" />
+  </p>
 
 
 </div>
