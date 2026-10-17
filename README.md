@@ -8,7 +8,7 @@
 </p>
 <br>
 <p align="center">
-$\color{#ff7398}{☆}$ <a href="https://weaponofwar.atabook.org/">ata-book</a> $\color{#ff7398}{✮}$ <a href="https://weaponofwar.straw.page/">Strawpage</a>  $\color{#ff7398}{☆}$ <a href="https://rentry.co/itsmewemmbu_">Rentry</a>  $\color{#ff7398}{✮}$
+$\color{#ee50ff}{☆}$ <a href="https://weaponofwar.atabook.org/">ata-book</a> $\color{#5b5195}{✮}$ <a href="https://weaponofwar.straw.page/">Strawpage</a>  $\color{#ee50ff}{☆}$ <a href="https://rentry.co/itsmewemmbu_">Rentry</a>  $\color{#5b5195}{✮}$
   <br>
     <img  width="100" align="center" alt="IMG_6683 (1)" src="https://github.com/user-attachments/assets/e3762fb3-053e-4675-be6b-b9918b5fc7a3" />
   </p>
@@ -17,9 +17,9 @@ $\color{#ff7398}{☆}$ <a href="https://weaponofwar.atabook.org/">ata-book</a> $
 </div>
 <table align="right">
   <tr>
-    <td align="center"> $\color{#ff7398}{Spectre,~how~he~laughs~Fear~puts~a~spell~on~us~Always~second~guessing~love~my~hunger~burns~a~bullet~hole~a~spectre~of~my~mortal}$
+    <td align="center"> $\color{#9b65dc}{Spectre,~how~he~laughs~Fear~puts~a~spell~on~us~Always~second~guessing~love~my~hunger~burns~a~bullet~hole~a~spectre~of~my~mortal}$
       <br>
-      $\color{#ff7398}{soul~the~only~truth~that~I~can~see~spectre~has~come~for~me}$ <img width="20" alt="purpleflower" src="https://github.com/user-attachments/assets/4c3d644a-4574-4245-9785-d62e95294c6f" />
+      $\color{#9b65dc}{soul~the~only~truth~that~I~can~see~spectre~has~come~for~me}$ <img width="20" alt="purpleflower" src="https://github.com/user-attachments/assets/4c3d644a-4574-4245-9785-d62e95294c6f" />
 
 
 </td>
