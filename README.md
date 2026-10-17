@@ -1,4 +1,4 @@
-## i cant go on pt without feeling evil and idk why.. may quit or take a break if i can bring myself too idk ##
+## i cant go on pt without feeling evil and idk why.. may quit or take a break if i can bring myself too idk idek why imtyping this theres probably no one who would care WHATEVER ##
 <img width="450" align="left" alt="IMG_6682 (1)" src="https://github.com/user-attachments/assets/6dea7517-dcbf-4a8a-b758-0dcb99d46d6d" />
 <br>
 <br>
