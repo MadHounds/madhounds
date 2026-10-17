@@ -7,7 +7,7 @@
   <tr>
     <td align="center">$\color{#ff7398}{Spectre,~how~he~laughs~Fear~puts~a~spell~on~us~Always~second~guessing~love~my~hunger~burns~a~bullet~hole~a~spectre~of~my~mortal}
       <br>
-      \color{#ff7398}{soul~the~only~truth~that~I~can~see~spectre~has~come~for~me}$
+      $\color{#ff7398}{soul~the~only~truth~that~I~can~see~spectre~has~come~for~me}$
 
 </td>
   </tr>
